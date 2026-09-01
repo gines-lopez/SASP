@@ -1,3 +1,3 @@
-# DASP
+# SASP
 
-Apuntes del módulo de 2º de DAM de Digitalización aplicada al sistema productivo
+Apuntes del módulo de 2º de DAM de Sostenibilidad aplicada al sistema productivo
